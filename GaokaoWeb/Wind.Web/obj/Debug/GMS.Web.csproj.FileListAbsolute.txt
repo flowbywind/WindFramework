@@ -1,0 +1,10 @@
+D:\Git\Web\GMS\Src\Wind.Web\obj\Debug\Wind.Web.csprojResolveAssemblyReference.cache
+D:\Git\Web\GMS\bin\Wind.Web.dll
+D:\Git\Web\GMS\bin\Wind.Web.pdb
+D:\Git\Web\GMS\Src\Wind.Web\obj\Debug\Wind.Web.dll
+D:\Git\Web\GMS\Src\Wind.Web\obj\Debug\Wind.Web.pdb
+E:\Project\Git\MVC\GMS\bin\Wind.Web.dll
+E:\Project\Git\MVC\GMS\bin\Wind.Web.pdb
+E:\Project\Git\MVC\GMS\Src\Wind.Web\obj\Debug\Wind.Web.csprojResolveAssemblyReference.cache
+E:\Project\Git\MVC\GMS\Src\Wind.Web\obj\Debug\Wind.Web.dll
+E:\Project\Git\MVC\GMS\Src\Wind.Web\obj\Debug\Wind.Web.pdb

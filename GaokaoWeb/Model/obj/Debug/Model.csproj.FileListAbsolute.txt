@@ -1,0 +1,8 @@
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Model\bin\Debug\Model.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Model\bin\Debug\Model.pdb
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Model\obj\Debug\Model.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Model\obj\Debug\Model.pdb
+D:\Git\Project\GaoKaoApp\GaokaoWeb\Model\bin\Debug\Model.dll
+D:\Git\Project\GaoKaoApp\GaokaoWeb\Model\bin\Debug\Model.pdb
+D:\Git\Project\GaoKaoApp\GaokaoWeb\Model\obj\Debug\Model.dll
+D:\Git\Project\GaoKaoApp\GaokaoWeb\Model\obj\Debug\Model.pdb

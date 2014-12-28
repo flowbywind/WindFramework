@@ -1,0 +1,12 @@
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Utility\bin\Debug\Wind.Framework.Utility.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Utility\bin\Debug\Wind.Framework.Utility.pdb
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Utility\bin\Debug\Newtonsoft.Json.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Utility\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\bin\Wind.Framework.Utility.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\bin\Wind.Framework.Utility.pdb
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Utility\obj\Debug\Wind.Framework.Utility.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Utility\obj\Debug\Wind.Framework.Utility.pdb
+D:\Git\Project\GaoKaoApp\GaokaoWeb\bin\Wind.Framework.Utility.dll
+D:\Git\Project\GaoKaoApp\GaokaoWeb\bin\Wind.Framework.Utility.pdb
+D:\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Utility\obj\Debug\Wind.Framework.Utility.dll
+D:\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Utility\obj\Debug\Wind.Framework.Utility.pdb

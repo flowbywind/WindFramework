@@ -1,0 +1,16 @@
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Contract\bin\Debug\Wind.Framework.Contract.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Contract\bin\Debug\Wind.Framework.Contract.pdb
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Contract\bin\Debug\Newtonsoft.Json.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Contract\bin\Debug\Wind.Framework.Utility.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Contract\bin\Debug\Wind.Framework.Utility.pdb
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Contract\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\bin\Wind.Framework.Contract.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\bin\Wind.Framework.Contract.pdb
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Contract\obj\Debug\Wind.Framework.Contract.csprojResolveAssemblyReference.cache
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Contract\obj\Debug\Wind.Framework.Contract.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Contract\obj\Debug\Wind.Framework.Contract.pdb
+D:\Git\Project\GaoKaoApp\GaokaoWeb\bin\Wind.Framework.Contract.dll
+D:\Git\Project\GaoKaoApp\GaokaoWeb\bin\Wind.Framework.Contract.pdb
+D:\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Contract\obj\Debug\Wind.Framework.Contract.csprojResolveAssemblyReference.cache
+D:\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Contract\obj\Debug\Wind.Framework.Contract.dll
+D:\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Framework.Contract\obj\Debug\Wind.Framework.Contract.pdb

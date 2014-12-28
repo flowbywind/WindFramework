@@ -1,0 +1,14 @@
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Core.Config\bin\Debug\Wind.Core.Config.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Core.Config\bin\Debug\Wind.Core.Config.pdb
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Core.Config\bin\Debug\Wind.Framework.Utility.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Core.Config\bin\Debug\Wind.Framework.Utility.pdb
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\bin\Wind.Core.Config.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\bin\Wind.Core.Config.pdb
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Core.Config\obj\Debug\Wind.Core.Config.csprojResolveAssemblyReference.cache
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Core.Config\obj\Debug\Wind.Core.Config.dll
+E:\Project\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Core.Config\obj\Debug\Wind.Core.Config.pdb
+D:\Git\Project\GaoKaoApp\GaokaoWeb\bin\Wind.Core.Config.dll
+D:\Git\Project\GaoKaoApp\GaokaoWeb\bin\Wind.Core.Config.pdb
+D:\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Core.Config\obj\Debug\Wind.Core.Config.csprojResolveAssemblyReference.cache
+D:\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Core.Config\obj\Debug\Wind.Core.Config.dll
+D:\Git\Project\GaoKaoApp\GaokaoWeb\Wind.Core.Config\obj\Debug\Wind.Core.Config.pdb

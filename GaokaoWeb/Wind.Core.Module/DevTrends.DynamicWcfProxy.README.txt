@@ -1,0 +1,35 @@
+Getting started with DevTrends.DynamicWcfProxy
+----------------------------------------------
+
+Note that in order to use DevTrends.DynamicWcfProxy, your WCF service contracts should reside in a different assembly from the service implementation. This allows you to reference the shared contracts assembly from the client. Obviously this is only possible for internal services where you own both service and client implementations and both are written in .NET.
+
+Assuming that IExampleService is the service contract that you wish to use, you can register the interface in your favourite IoC container. Here is an example using Unity:
+
+container.RegisterType<IExampleService>(new InjectionFactory(c => DynamicWcfProxy<IExampleService>.Generate()));
+
+The code will automatically look in the web.config for client configuration:
+
+<system.serviceModel>
+    <client>
+			<endpoint address="net.tcp://whatever:60000/ExampleService.svc"
+                binding="netTcpBinding"
+                contract="DevTrends.ExampleService.Contracts.IExampleService" />			      
+    </client>
+  </system.serviceModel>
+
+Any components that need to call the service can use constructor injection:
+
+public ExampleController(IExampleService service)...
+
+Whenever a call is made on the interface, the proxy will automatically deal with opening the connection, making the call and then closing the connection afterwards. The component using the interface can treat it like a standard .NET interface. All the plumbing code is taken care of.
+
+private readonly IExampleService _service;
+
+public void DoSomething(string blah)
+{
+  var response = _service.DoSomething(new DoSomethingRequest{ Blah = blah });
+}
+
+A thorough introduction to DevTrends.DynamicWcfProxy will be available on the DevTrends blog in the coming weeks.
+
+http://devtrends.co.uk/blog
